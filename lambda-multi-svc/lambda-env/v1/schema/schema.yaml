@@ -5,7 +5,7 @@ schema:
   types:
     EnvironmentInput:
       type: object
-      description: "Input properties for my environment"
+      description: "Input properties for my environment 2"
       properties:
         ttl_attribute:
           type: string
