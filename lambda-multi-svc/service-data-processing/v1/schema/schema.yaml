@@ -7,7 +7,7 @@ schema:
   types:
     CrudServiceInput:
       type: object
-      description: "Input properties for a Lambda data processing service."
+      description: "Input properties for a Lambda data processing service ."
       properties:
         resource_name:
           type: string
